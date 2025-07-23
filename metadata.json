@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Interface",
+  "description": "A sleek and responsive chat interface that allows users to interact with the Gemini AI. Features include conversation history and the ability to save chats to a local file.",
+  "requestFramePermissions": []
+}
